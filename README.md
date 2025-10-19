@@ -1,2 +1,3 @@
-# reading-tracker-app
-Auto-generated project: reading-tracker-app
+# README
+
+[Temporarily disabled for testing - only 1 LLM call]
